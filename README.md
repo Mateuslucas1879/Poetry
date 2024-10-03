@@ -20,10 +20,9 @@ cd nome-do-projeto
 ````
 
 nome-do-projeto/
-│
-├── pyproject.toml  # Arquivo de configuração do Poetry contendo as dependências
-├── README.md       # Este arquivo
-├── src/            # Código-fonte do projeto
-└── tests/          # Testes automatizados
+├── pyproject.toml    # Arquivo de configuração do Poetry contendo as dependências
+├── README.md         # Este arquivo
+├── src/              # Código-fonte do projeto
+└── tests/            # Testes automatizados
 
 
