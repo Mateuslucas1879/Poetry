@@ -19,6 +19,9 @@ git clone https://github.com/usuario/nome-do-projeto.git
 cd nome-do-projeto
 ````
 
+## Estrutura do Projeto
+
+```bash
 nome-do-projeto/
 ├── pyproject.toml    # Arquivo de configuração do Poetry contendo as dependências
 ├── README.md         # Este arquivo
