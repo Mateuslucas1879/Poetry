@@ -8,3 +8,14 @@ Antes de iniciar, certifique-se de ter o [Poetry](https://python-poetry.org/docs
 
 ```bash
 poetry --version
+
+````
+## Instalação
+
+Clone este repositório:
+
+```bash
+git clone https://github.com/usuario/nome-do-projeto.git
+cd nome-do-projeto
+````
+
